@@ -1,5 +1,7 @@
 # vuex-todo-list
 
+## This project was created based on [Vuex Crash Course](https://www.youtube.com/watch?v=5lVQgZzLMHc&t=1s) by [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+
 ## Project setup
 ```
 npm install
